@@ -1,0 +1,16 @@
+/*自定义css*/
+.not{
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20%;
+}
+.footer-container ul li a.beianhao{
+  width: 100%;
+  font-size: 12px;
+}
+.footer-container ul li a:hover{
+  color: #4094c7;
+}
+.top-box footer{
+  display: block !important;
+}
